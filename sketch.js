@@ -9,8 +9,8 @@ var lastFed
 var fedTime
 
 function preload() {
-  dogImg = loadImage("images/dogImg.png");
-  dogImg1 = loadImage("images/dogImg1.png");
+  dogImg = loadImage("dogImg.png");
+  dogImg1 = loadImage("dogImg1.png");
 }
 
 function setup() {
